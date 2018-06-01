@@ -1,0 +1,79 @@
+body{
+	color: #fff;
+	background-color: black;
+}
+a:link{
+	color: #444;
+	background-color: none;
+}
+a:visited{
+	color: #444;
+	background-color: #eb6;
+}
+a:hover{
+	color: #777;
+}
+
+header{
+	color: #ec8;
+	background-color: #334;
+	border-color: #667;
+}
+nav{
+	color: #223;
+	background-color: grey;
+	border-color: #667;
+}
+article nav{
+	background-color: transparent;
+}
+article{
+	color: #223;
+	background-color: #edb;
+	border-color: #667;
+}
+header nav ul{
+	border-color: #99a;
+}
+header nav a:link,
+header nav a:visited{
+	color: #eef;
+	background-color: transparent;
+	border-color: #999;
+}
+header nav a:hover{
+	color: #911	;
+	background-color: #555;
+}
+header nav a:active{
+	color: #111;
+	background-color: #666;
+}
+article img{
+	border-color: #ba9;
+	outline-color: #dcb;
+}
+#here{
+	color: #444;
+	background-color: silver;
+}
+#image a{
+	background-color: transparent;
+	border-color: transparent;
+}
+th{
+	color: #edc;
+	background-color: #455;
+}
+tr td{
+	color: #223;
+	background-color: #eb6;
+}
+tr.odd td{
+	color: #223;
+	background-color: #ec8;
+}
+tr.highlight td{
+	color: #223;
+	background-color: #cba;
+}
